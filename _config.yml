@@ -16,11 +16,9 @@
 title: John Wamalwa
 email: 254wamalwa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+ Explore the intersection of cybersecurity, ICT, and data analytics through my portfolio of innovative projects, insightful blogs, and dynamic case studies. From securing systems to harnessing data-driven solutions, this space is dedicated to technology that makes an impact. Welcome to my digital showcase—where knowledge meets innovation!
+linkedin_username: wamalwaj
+github_username: wamalwaj
 minimal_mistakes_skin: default
 search: true
 
@@ -29,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 4 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -58,16 +56,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "John Wamalwa"
+  avatar : "/assets/images/Passport.jpg"
+  bio    : "A motivated and detail-oriented graduate skilled in ICT, Data Analytics, and Security Engineering, dedicated to using technical expertise to develop innovative, data-driven solutions. Passionate about optimizing systems and enhancing security through analytical problem-solving."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://wamalwa.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/john-w-746a80211"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wamalwaj"
@@ -77,15 +75,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-kinkedin-square"
+      url: "https://www.linkedin.com/in/john-w-746a80211"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/wamalwaj"
+    - #label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/"
 
 defaults:
   # _posts
