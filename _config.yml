@@ -16,10 +16,12 @@
 title: John Wamalwa
 email: 254wamalwa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Security Engineer | ICT Specialist | Data Analyst
-#twitter_username: username
-github_username: wamalwaj
-minimal_mistakes_skin: neon
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: username
+github_username: username
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -56,16 +58,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "John Wamalwa"
-  avatar : "/assets/images/Passport.jpg"
-  bio    : "A motivated and detail-oriented graduate, skilled in ICT, Data Analytics, and Security Engineering, dedicated to using technical expertise to develop innovative and data-driven solutions. Passionate about optimizing systems and enhancing security through analytical problem-solving."
+  name   : "First Lastname"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://wamalwaj.githum.io"
-    - label: "LinkedIn"
+      url: "https://"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.linkedin.com/in/wamalwaj"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wamalwaj"
@@ -75,15 +77,15 @@ author:
 
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/wamalwaj"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wamalwaj"
-    - #label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
